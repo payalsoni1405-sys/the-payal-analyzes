@@ -9,6 +9,6 @@ I’m Payal, a data enthusiast diving deep into the world of Power BI, Qlik, SQL
 
     📈 Data Analyst Adventures: Lessons, tips, and tricks from my journey of mastering analytics!
 
-    🌟Inspiration for Analysts**: Resources and ideas for anyone passionate about turning data into decisions.
+    🌟Inspiration for Analysts: Resources and ideas for anyone passionate about turning data into decisions.
 
 **Bring A Cup of CHAI  and let’s shape data stories together!** ☕📊🍪💻
