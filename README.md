@@ -12,4 +12,4 @@ I’m Payal, a data enthusiast diving deep into the world of Power BI, Qlik, SQL
     🌟Inspiration for Analysts: Resources and ideas for anyone passionate about turning data into decisions.
 
 **Bring A Cup of CHAI  and let’s shape data stories together!** ☕📊🍪💻
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/1d660c64-87e1-4dc1-b955-77c3a76a92c3" />
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/1d660c64-87e1-4dc1-b955-77c3a76a92c3" />
